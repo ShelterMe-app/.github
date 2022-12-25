@@ -1,1 +1,0 @@
-### This organisation was created for a collaborative project for the Foundations of Software Engineering lab by @SebiGabor and @dragosefrem, during our second year of Computer Engineering studies at Polytechnic University of Timișoara.
